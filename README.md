@@ -1,0 +1,1 @@
+## ARTEX 한국어 참고 배포본\n\n내부망 배포를 위한 ARTEX 패키지입니다. 자세한 사용법은 Release의 `ARTEX-internal-v0.1.0.zip`을 내려받아 `docs/사용방법.md`를 참고하세요.
